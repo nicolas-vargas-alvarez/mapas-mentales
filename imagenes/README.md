@@ -38,8 +38,3 @@ los requisitos del sistema para garantizar su correcto desarrollo.
 
 ![Mapa 4](imagenes/mapa_4.png)
 
----
-
-## Autor
-Trabajo académico – Clase del martes
-
