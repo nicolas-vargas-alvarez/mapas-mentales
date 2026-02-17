@@ -12,7 +12,7 @@ Presentar de forma visual y estructurada los conceptos vistos en clase mediante 
 Representa el concepto de sistema como un conjunto de elementos interrelacionados,
 mostrando entradas, procesos, salidas y retroalimentación.
 
-![Mapa 1](imagenes/mapa_1.png)
+![Mapa 1](mapa_1.png)
 
 ---
 
@@ -20,7 +20,7 @@ mostrando entradas, procesos, salidas y retroalimentación.
 Describe cómo una organización transforma insumos en resultados,
 enfocándose en los procesos clave del negocio.
 
-![Mapa 2](imagenes/mapa_2.png)
+![Mapa 2](mapa_2.png)
 
 ---
 
@@ -28,7 +28,7 @@ enfocándose en los procesos clave del negocio.
 Muestra el análisis detallado de los procesos,
 identificando actividades, responsables y mejoras posibles.
 
-![Mapa 3](imagenes/mapa_3.png)
+![Mapa 3](mapa_3.png)
 
 ---
 
@@ -36,4 +36,4 @@ identificando actividades, responsables y mejoras posibles.
 Explica la importancia de recopilar, analizar y documentar
 los requisitos del sistema para garantizar su correcto desarrollo.
 
-![Mapa 4](imagenes/mapa_4.png)
+![Mapa 4](mapa_4.png)
